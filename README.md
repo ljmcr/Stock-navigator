@@ -1,1 +1,4 @@
-# Stock-navigator
+# sp24-cs411-team001-TheTeam
+
+## Project Summary:
+The project aims to develop a comprehensive stock market visualization application that provides users with a smooth experience in tracking and analyzing stock prices. The application will feature a user-friendly interface where users can view stock prices for various stocks in one place, offering a comprehensive overview of the market trends, with the flexibility to customize the time frame and data frequency (i.e. weekly, monthly, or yearly data). Users will be able to create personalized lists of favorite stocks to focus only on the stocks that they are interested in, with the flexibility to convert the prices into their preferred currency for ease of understanding. Additionally, users can use the search bar to look up and access more detailed information about each stock, including the owner's company, its industry, and more. For security features, users can log in using Single Sign-On (SSO) through Google, enabling a secure and convenient authentication process to access their private configurations such as personalized stock lists and preferred currency.
